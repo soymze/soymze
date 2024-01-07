@@ -2,8 +2,8 @@
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 <hr>
 <div>
-  <p>:hourglass:Im currently learning Java and React.js</p>
   <img src="giphy.gif" width="300" height="300" />
+  :hourglass: <h1> Im currently </h1> <br> <h1>learning </h1> <br> <h1>Java and React.js</h1>
 </div>
 
 <br>
