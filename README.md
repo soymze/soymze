@@ -1,7 +1,12 @@
 <img src="header.png" />
-<hr>
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
+<hr>
 
+Im currently learning Java and React.js
+
+Contacts
+
+Languages and Tools
 
 
 <img src="giphy.gif" width="300" height="300" />
