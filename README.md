@@ -1,4 +1,5 @@
-### Hi there 👋
+### H E L L O W O R L D  👋
+I am discovering what I can do with some coding plus imagination and this is my diary.
 
 <!--
 **soymze/soymze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
