@@ -3,6 +3,9 @@
 <hr>
 <div>
   <img src="giphy.gif" width="300" height="300" />
+  <span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
   :hourglass:  Im currently  <br> learning  <br> Java and React.js
 </div>
 
