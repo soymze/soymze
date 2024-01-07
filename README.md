@@ -1,8 +1,11 @@
 <img src="header.png" />
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 <hr>
+<div>
+  <p>:hourglass:Im currently learning Java and React.js</p>
+  <img src="giphy.gif" width="300" height="300" />
+</div>
 
-:hourglass:Im currently learning Java and React.js
 <br>
 <br>
 <h1>Contacts</h1>
@@ -36,7 +39,7 @@
 </div>
 
 
-<img src="giphy.gif" width="300" height="300" />
+
 
 <!--
 **soymze/soymze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
