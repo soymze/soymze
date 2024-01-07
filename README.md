@@ -1,5 +1,5 @@
 ### H E L L O W O R L D  👋
-I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please:)
+<strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 
 ![alt-text](giphy.gif)
 
