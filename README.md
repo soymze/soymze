@@ -1,4 +1,4 @@
-### H E L L O W O R L D  👋
+<img src="header.png" />
 <hr>
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 
