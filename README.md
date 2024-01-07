@@ -1,6 +1,7 @@
 ### H E L L O W O R L D  👋
 I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please:)
-<iframe src="https://giphy.com/embed/2uxxXyTRFgIJaOZJTb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+![Alt Text](https://giphy.com/embed/2uxxXyTRFgIJaOZJTb)
 
 <!--
 **soymze/soymze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
