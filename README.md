@@ -2,9 +2,9 @@
 <hr>
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 
-![alt-text](giphy.gif=x250)
 
-<img src="giphy.gif" width="100" height="100" />
+
+<img src="giphy.gif" width="300" height="100" />
 
 <!--
 **soymze/soymze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
