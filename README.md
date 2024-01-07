@@ -3,7 +3,8 @@
 <hr>
 
 :hourglass:Im currently learning Java and React.js
-
+<br>
+<br>
 Contacts
 
 Languages and Tools
