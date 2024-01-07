@@ -16,7 +16,7 @@
 
 
 
-Languages and Tools
+<h2>Languages and Tools</h2>
 
 
 <img src="giphy.gif" width="300" height="300" />
