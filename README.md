@@ -3,7 +3,7 @@
 <hr>
 <div>
   <img src="giphy.gif" width="300" height="300" />
-  :hourglass: <h1> Im currently </h1> <br> <h1>learning </h1> <br> <h1>Java and React.js</h1>
+  :hourglass:  Im currently  <br> learning  <br> Java and React.js
 </div>
 
 <br>
