@@ -4,6 +4,8 @@
 
 ![alt-text](giphy.gif=x250)
 
+<img src="giphy.gif" width="100" height="100" />
+
 <!--
 **soymze/soymze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
