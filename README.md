@@ -5,7 +5,7 @@
 :hourglass:Im currently learning Java and React.js
 <br>
 <br>
-Contacts
+###Contacts
 
 Languages and Tools
 
