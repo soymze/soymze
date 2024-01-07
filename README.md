@@ -2,7 +2,7 @@
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 <hr>
 
-Im currently learning Java and React.js
+:hourglass:Im currently learning Java and React.js
 
 Contacts
 
