@@ -2,7 +2,7 @@
 <hr>
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 
-![alt-text](giphy.gif=250x250)
+![alt-text](giphy.gif=x250)
 
 <!--
 **soymze/soymze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
