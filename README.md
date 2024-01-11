@@ -2,7 +2,9 @@
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 <hr>
 <div>
-  <img src="giphy.gif" width="300" height="300" />
+  <div>
+    <img src="giphy.gif" width="300" height="300" />
+  </div>
   <h2>Languages and Tools</h2>
   <div>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
