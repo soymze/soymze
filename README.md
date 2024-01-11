@@ -2,8 +2,8 @@
 <strong>I am discovering what I can do with some coding plus imagination and this is my diary.Follow the bugs please</strong>:)
 <hr>
 <div>
-  <div>
-    <img src="giphy.gif" width="%50" height="300" />
+  <div width="%50">
+    <img src="giphy.gif" height="300" />
   </div>
   <h2>Languages and Tools</h2>
   <div width="%50">
