@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soymze&layout=compact)
 
 <!--
 **soymze/soymze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
