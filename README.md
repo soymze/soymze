@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate fullstack developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Java Spring Boot and Angular.js**
+🌱 I’m currently learning **Java Spring Boot and Angular.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/soymze](https://github.com/soymze)
+👨‍💻 All of my projects are available at [https://github.com/soymze](https://github.com/soymze)
 
-- 📫 How to reach me **soylmze@gmail.com**
+📫 How to reach me **soylmze@gmail.com**
 
-- 📄 Know about my experiences [https://blush-blaire-34.tiiny.site](https://blush-blaire-34.tiiny.site)
+📄 Know about my experiences [https://blush-blaire-34.tiiny.site](https://blush-blaire-34.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
