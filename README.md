@@ -1,18 +1,10 @@
 # 💫 About Me:
-## 🌱 Currently Working On:
-Frontend Mentor challenges and honing my skills in frontend development.
+🌱 **Currently Working On:** Frontend Mentor challenges and honing my skills in frontend development.  
+🤝 **Looking to Collaborate On:** Open-source projects involving JavaScript, React, and other frontend technologies.  
+🔍 **Looking for Help With:** Optimizing web performance and learning best practices in React development.  
+📚 **Currently Learning:** Advanced React concepts and exploring TypeScript for better code management.  
+💬 **Ask Me About:** Frontend development, JavaScript, or building responsive web applications.
 
-## 🤝 Looking to Collaborate On:
-Open-source projects involving JavaScript, React, and other frontend technologies.
-
-## 🔍 Looking for Help With:
-Optimizing web performance and learning best practices in React development.
-
-## 📚 Currently Learning:
-Advanced React concepts and exploring TypeScript for better code management.
-
-## 💬 Ask Me About:
-Frontend development, JavaScript, or building responsive web applications.
 
 
 
