@@ -13,11 +13,12 @@ Frontend Mentor challenges<br>I'm looking to collaborate on open-source projects
 | --- | --- |
 | ![](https://github-readme-stats.vercel.app/api?username=soymze&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soymze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
-### 🔥 GitHub Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=soymze&theme=dark&hide_border=false)
+### 🔥 GitHub Streak & ✍️ Random Dev Quote
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+| GitHub Streak | Random Dev Quote |
+| --- | --- |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=soymze&theme=dark&hide_border=false) | ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light) |
+
 
 
 ---
