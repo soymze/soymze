@@ -10,9 +10,10 @@
 
 ## 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-333?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/soymze)
 [![HackerRank](https://img.shields.io/badge/HackerRank-333?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/soylmze)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+
 
 
 # 💻 Tech Stack:
