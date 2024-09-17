@@ -22,7 +22,7 @@
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=soymze&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?soymze=YOUR_USERNAME)
+| ![](https://github-readme-stats.vercel.app/api?username=soymze&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soymze)
 
 ### 🔥 GitHub Streak & ✍️ Random Dev Quote
 
